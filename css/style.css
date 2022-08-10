@@ -12,3 +12,12 @@ body {
 .text-blue {
     color: #2937f0;
 }
+
+.stop-writing {
+    background-image: url(../img/background.png);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(0, 0, 0, .5);
+    background-blend-mode: overlay;
+}
